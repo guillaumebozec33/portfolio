@@ -11,6 +11,8 @@ const projects = [
         tags: ['React.js', 'Docker', 'ExpressJS'],
         color: 'from-blue-500 to-cyan-500',
         image: "./images/job-board.png",
+        github:undefined,
+        demo:undefined
     },
     {
         title: 'Kotoba',
@@ -18,6 +20,8 @@ const projects = [
         tags: ['React Native', 'ExpressJS', 'SQL'],
         color: 'from-purple-500 to-pink-500',
         image: "./images/kotoba.png",
+        github:undefined,
+        demo:undefined
     },
     {
         title: 'Ma Banque Facile',
@@ -25,6 +29,8 @@ const projects = [
         tags: ['Next.js', 'React Native', 'SQL'],
         color: 'from-green-500 to-teal-500',
         image: "./images/ma-banque-facile.png",
+        github:undefined,
+        demo:undefined
     },
     {
         title: 'SmartCity',
@@ -32,6 +38,8 @@ const projects = [
         tags: ['Python', 'React Native', 'Supabase'],
         color: 'from-green-500 to-teal-500',
         image: undefined,
+        github:undefined,
+        demo:undefined
     },
 ];
 
